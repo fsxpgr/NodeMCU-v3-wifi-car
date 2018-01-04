@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/lesyk/.platformio/penv/bin:/home/lesyk/bin:/home/lesyk/.local/bin:/home/lesyk/bin:/home/lesyk/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin"
+    },
+    "files.associations": {
+        "cstdlib": "cpp"
+    }
+}
